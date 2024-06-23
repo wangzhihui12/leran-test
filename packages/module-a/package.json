@@ -1,0 +1,29 @@
+{
+  "name": "module-a",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wangzhihui12 <1733904062@qq.com>",
+  "homepage": "https://github.com/wangzhihui12/leran-test#readme",
+  "license": "ISC",
+  "main": "lib/module-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhihui12/leran-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/module-a.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzhihui12/leran-test/issues"
+  },
+  "dependencies": {
+    "module-b": "file:../module-b"
+  }
+}

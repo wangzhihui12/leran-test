@@ -1,0 +1,68 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.3.1",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "gpnote/README.md",
+        "hash": "17398012516754339946"
+      },
+      {
+        "file": "gpnote/__tests__/gpnote.test.js",
+        "hash": "11460359778907191840"
+      },
+      {
+        "file": "gpnote/lib/gpnote.js",
+        "hash": "14289618642192459478"
+      },
+      {
+        "file": "gpnote/package.json",
+        "hash": "12251948857009536125"
+      },
+      {
+        "file": "module-a/README.md",
+        "hash": "13479087571682969717"
+      },
+      {
+        "file": "module-a/__tests__/module-a.test.js",
+        "hash": "12532977400822405883"
+      },
+      {
+        "file": "module-a/lib/module-a.js",
+        "hash": "5925939784814265468"
+      },
+      {
+        "file": "module-a/package-lock.json",
+        "hash": "10208225109567546718"
+      },
+      {
+        "file": "module-a/package.json",
+        "hash": "7139368437558765749"
+      },
+      {
+        "file": "module-b/README.md",
+        "hash": "18402156204214204997"
+      },
+      {
+        "file": "module-b/__tests__/module-b.test.js",
+        "hash": "10908584984150833713"
+      },
+      {
+        "file": "module-b/lib/module-b.js",
+        "hash": "6483915503648089948"
+      },
+      {
+        "file": "module-b/package.json",
+        "hash": "8301260472434178296"
+      },
+      {
+        "file": "package.json",
+        "hash": "16147691034252857587"
+      }
+    ]
+  }
+}
